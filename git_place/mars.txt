@@ -3,4 +3,4 @@ Another line for testing.
 Adding this line after commit.
 Neither the line inserted locally,
 Nor the line inserted in the cloned copy (i.e. the other window),
-Is kept for practicei purpose.
+Is kept for practice purpose.
