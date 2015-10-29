@@ -1,3 +1,4 @@
 This is a git file.
 Another line for testing.
 Adding this line after commit.
+Modify the file on the "cloned" copy from the remote github.
