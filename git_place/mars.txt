@@ -1,4 +1,6 @@
 This is a git file.
 Another line for testing.
 Adding this line after commit.
-Modify the file for the second time.
+Neither the line inserted locally,
+Nor the line inserted in the cloned copy (i.e. the other window),
+Is kept for practicei purpose.
